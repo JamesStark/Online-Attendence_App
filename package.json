@@ -1,0 +1,26 @@
+{
+  "name": "attendance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guru2402/Attendance.git"
+  },
+  "author": "guru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guru2402/Attendance/issues"
+  },
+  "homepage": "https://github.com/guru2402/Attendance#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "ejs": "^2.5.5",
+    "express": "^4.14.1",
+    "mongo-xlsx": "^1.0.12",
+    "mongoose": "^4.8.1"
+  }
+}

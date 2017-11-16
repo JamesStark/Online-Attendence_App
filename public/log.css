@@ -1,0 +1,12 @@
+body{
+	background: rgb(00,123,187);
+}
+.aa{
+	background: ghostwhite;
+
+	border-style: solid;
+}
+#ncdrclogo {
+	margin-left: auto;
+	margin-right: auto;
+}
